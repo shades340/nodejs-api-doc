@@ -1,5 +1,5 @@
 # Node.js API 中文文档
-
+bc1qmhns5cfushgdwka4dw0r9f8leuneksms7m59dv
 ### 译者
 
 [DavidCai1993](https://github.com/DavidCai1993)
